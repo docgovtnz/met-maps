@@ -1,5 +1,5 @@
 # MET-Maps
-Useful snippets to quickly generate marine maps
+Useful R snippets to quickly generate marine maps
 
 # Mapview maps
 
