@@ -1,1 +1,8 @@
 *.html
+*.png
+*.jpeg
+*.tiff
+*.tif
+*.jpg
+
+data/gadm*
